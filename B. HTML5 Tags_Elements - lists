@@ -1,0 +1,332 @@
+This HTML5 tags or HTML5 elements contains a complete list of all standard HTML5 tags belonging to the latest HTML5 and HTML specifications. 
+All the HTML5 tags or elements are listed alphabetically.
+
+HTML tags or elements are components of a document written in HTML. An element is defined by HTML tags. Every page consists of a set of HTML elements or tags. They represent parts of the document , such as headings and paragraphs.
+The HTML elements represent the document's structure , while tags are simply a part of the HTML syntax.
+
+How many tags are there in html5?
+There are approximately 110 tags in HTML5. There are 32 tags which are newly introduced in HTML5. The following section contains a brief overview of HTML5 Tags.
+A Complete Guide on HTML5 Tags Definitions with Examples.
+
+HTML5 Tag <a>
+The HTML5 a ( <a> tag ) or anchor tag or element creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address.
+
+HTML5 Tag <abbr>
+Defines an abbreviated form of a longer word or phrase. 
+
+HTML5 Tag <address>
+Specifies the author's contact information.
+
+HTML5 Tag <area>
+The HTML area tag defines a specific area within an image map. In other words a clickable area on image which is defined with map tag. 
+The area tags defined in map tag for image tag. The area tag is only child element of map tag.
+
+HTML5 Tag <article>
+This tag represents an independent piece of content of a document, such as a blog entry or newspaper article.
+
+HTML5 Tag <aside>
+Defines some content loosely related to the page content. This tag represents a piece of content that is only slightly related to the rest of the page.
+
+HTML5 Tag <audio>
+Embeds a sound , or an audio stream in an HTML document.
+
+HTML5 Tag <b>
+Displays text in a bold style.
+
+HTML5 Tag <base>
+Defines the base URL for all linked objects on a page.
+
+HTML5 Tag <bdi>
+Represents text that is isolated from its surrounding for the purposes of bidirectional text formatting.
+
+HTML5 Tag <bdo>
+Overrides the current text direction.
+
+HTML5 Tag <blockquote>
+Defines a long quotation.
+
+HTML5 Tag <body>
+Defines the document's body.
+
+HTML5 Tag <br>
+Produces a single line break.
+
+HTML5 Tag <button>
+Creates a clickable button.
+
+HTML5 Tag <canvas>
+Defines a region in the document , which can be used to draw graphics on the fly via scripting ( usually JavaScript ). A <canvas> element provides scripts with a resolution-dependent bitmap canvas, which can be used for rendering graphs, game graphics, or other visual images on the fly.
+
+HTML5 Tag <caption>
+Defines the title of a table.
+
+HTML5 Tag <cite>
+Indicates a citation or reference to another source.
+
+HTML5 Tag <code>
+Specifies text as computer code.
+
+HTML5 Tag <col>
+Defines attribute values for one or more columns in a table.
+
+HTML5 Tag <colgroup>
+Specifies attributes for multiple columns in a table.
+
+HTML5 Tag <datalist>
+Represents a set of pre-defined options for an <input> element.
+
+HTML5 Tag <dd>
+Specifies a definition for a term in a definition list.
+
+HTML5 Tag <del>
+Specifies a block of deleted text.
+
+HTML5 Tag <details>
+Represents a widget from which the user can obtain additional information or controls on-demand.
+
+HTML5 Tag <dfn>
+Specifies a definition.
+
+HTML5 Tag <div>
+Specifies a division or a section in a document.
+
+HTML5 Tag <dl>
+Defines a definition list.
+
+HTML5 Tag <dt>
+Defines a term ( an item ) in a definition list.
+
+HTML5 Tag <em>
+Specifies emphasized text.
+
+HTML5 Tag <embed>
+Embeds external application , typically multimedia content like audio or video into an HTML document.
+
+HTML5 Tag <fieldset>
+Specifies a set of related form fields.
+
+HTML5 Tag <figcaption>
+The <figcaption> tag defines a caption or legend for a figure. The <figcaption> tag defines a caption for a <figure> element. 
+The <figcaption> element can be placed as the first or as the last child of a <figure> element.
+
+HTML5 Tag <figure>
+Represents a figure illustrated as part of the document. This tag can be used to associate a caption together with some embedded content, such as a graphic or video.
+
+HTML5 Tag <footer>
+Represents the footer of a document or a section and can contain information about the author, copyright information, et cetera..
+
+HTML5 Tag <form>
+Defines an HTML form for user input. The forms section of HTML5 was originally a specification titled Web Forms 2.0 that added new types of controls for forms.
+
+HTML5 Tags <h1> to <h6>
+Defines HTML headings.
+
+HTML5 Tag <head>
+Defines the head portion of the document that contains information about the document such as title.
+
+HTML5 Tag <header>
+Represents the header of a document or a section.
+
+HTML5 Tag <hgroup>
+Defines a group of headings.
+
+HTML5 Tag <hr>
+Produce a horizontal line.
+
+HTML5 Tag <html>
+Defines the root of an HTML document.
+
+HTML5 Tag <i>
+Displays text in an italic style.
+
+HTML5 Tag <iframe>
+The iframe tag specifies an inline frame. It displays a URL in an inline frame.
+
+Which HTML5 tag embed a webpage inside a webpage ?
+The html5 iframe tag embed a webpage inside a webpage. The iframe tag is used to embed another document within the current HTML document.
+
+How to use <iframe> tag in HTML5 ?
+Following example shows how to use iframe tag in html5.
+
+How to use iframe Tag in HTML5 Example
+<iframe src="https://www.hudatutorials.com" title="Huda Tutorials - Java, Python, HTML5 Tutorial"></iframe>
+
+HTML5 Tag <img>
+Displays an inline image.
+
+HTML5 Tag <input>
+Defines an input control.
+
+HTML5 Tag <ins>
+Defines a block of text that has been inserted into a document.
+
+HTML5 Tag <kbd>
+Specifies text as keyboard input.
+
+HTML5 Tag <keygen>
+Represents a control for generating a public-private key pair.
+
+HTML5 Tag <label>
+Defines a label for an <input> control.
+
+HTML5 Tag <legend>
+Defines a caption for a <fieldset> element.
+
+HTML5 Tag <li>
+Defines a list item.
+
+HTML5 Tag <link>
+Defines the relationship between the current document and an external resource.
+
+HTML5 Tag <map>
+Defines a client-side image-map.
+
+HTML5 Tag <mark>
+Represents text highlighted for reference purposes.
+
+HTML5 Tag <menu>
+Represents a list of commands.
+
+HTML5 Tag <meta>
+Provides structured metadata about the document content.
+
+HTML5 Tag <meter>
+Represents a scalar measurement within a known range.
+
+HTML5 Tag <nav>
+Defines a section of navigation links. This tag represents a section of the document intended for navigation.
+
+HTML5 Tag <noscript>
+Defines alternative content to display when the browser doesn't support scripting.
+
+HTML5 Tag <object>
+Defines an embedded object.
+
+HTML5 Tag <ol>
+Defines an ordered list.
+
+HTML5 Tag <optgroup>
+Defines a group of related options in a selection list.
+
+HTML5 Tag <option>
+Defines an option in a selection list.
+
+HTML5 Tag <output>
+Represents the result of a calculation.
+
+HTML5 Tag <p>
+Defines a paragraph.
+
+HTML5 Tag <param>
+Defines a parameter for an object or applet element.
+
+HTML5 Tag <pre>
+Defines a block of preformatted text.
+
+HTML5 Tag <progress>
+Represents the completion progress of a task.
+
+HTML5 Tag <q>
+Defines a short inline quotation.
+
+HTML5 Tag <rp>
+Provides fall-back parenthesis for browsers that don't support ruby annotations.
+
+HTML5 Tag <rt>
+Defines the pronunciation of character presented in a ruby annotations.
+
+HTML5 Tag <ruby>
+Represents a ruby annotation.
+
+HTML5 Tag <samp>
+Specifies text as sample output from a computer program.
+
+HTML5 Tag <script>
+Places script in the document for client-side processing.
+
+HTML5 Tag <section>
+HTML5 section tag represents a generic document or application section. It can be used together with h1 to h6 tags to indicate the document structure. Defines a section of a document , such as header , footer etc.
+
+How to create section tag in html5 ?
+Following example shows how to create section tag in html5.
+
+How to create section tag in html5 Example
+<section>
+  <h2>Section Heading</h2>
+  <p>Section content.</p>
+</section>
+HTML5 Tag <select>
+Defines a selection list within a form.
+
+HTML5 Tag <small>
+Displays text in a smaller size.
+
+HTML5 Tag <source>
+Defines alternative media resources for the media elements like <audio> or <video>.
+
+HTML5 Tag <span>
+Defines an inline styleless section in a document.
+
+HTML5 Tag <strong>
+Indicate strongly emphasized text.
+
+HTML5 Tag <style>
+Inserts style information ( commonly CSS ) into the head of a document.
+
+HTML5 Tag <sub>
+Defines subscripted text.
+
+HTML5 Tag <summary>
+Defines a summary for the <details> element.
+
+HTML5 Tag <sup>
+Defines superscripted text.
+
+HTML5 Tag <table>
+Defines a data table.
+
+HTML5 Tag <tbody>
+Groups a set of rows defining the main body of the table data.
+
+HTML5 Tag <td>
+Defines a cell in a table.
+
+HTML5 Tag <textarea>
+Defines a multi-line text input control ( text area ).
+
+HTML5 Tag <tfoot>
+Groups a set of rows summarizing the columns of the table.
+
+HTML5 Tag <th>
+Defines a header cell in a table.
+
+HTML5 Tag <thead>
+Groups a set of rows that describes the column labels of a table.
+
+HTML5 Tag <time>
+Represents a time and/or date.
+
+HTML5 Tag <title>
+Defines a title for the document.
+
+HTML5 Tag <tr>
+Defines a row of cells in a table.
+
+HTML5 Tag <track>
+Defines text tracks for the media elements like <audio> or <video>.
+
+HTML5 Tag <ul>
+Defines an unordered list.
+
+HTML5 Tag <var>
+Defines a variable.
+
+HTML5 Tag <video>
+Embeds video content in an HTML document.
+
+HTML5 Tag <wbr>
+Represents a line break opportunity.
+
+What are the 4 basic HTML tags?
+<html>, <head>, <title> and <body> these are 4 basic HTML tags needed to create a web page.
+
